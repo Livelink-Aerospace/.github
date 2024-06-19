@@ -79,6 +79,12 @@ Lead Maintainer: [Robin Hodges](https://github.com/RobinHodges)
 
 Lead Maintainer: [Paul Masters](https://github.com/paulmasters)
 
+### DSP Toolbox
+
+[Repository](https://github.com/Livelink-Aerospace/lla-dspy-toolbox)
+
+Lead Maintainer: [Athanasios Vasileiadis](https://github.com/VasAthanasios)
+
 ---
 
 ## Experimental
